@@ -54,7 +54,7 @@ const LoginScreen = () => {
         />
         <View style={{flex: 1, justifyContent: 'flex-end', paddingBottom: 10}}>
           <Text style={{alignSelf: 'center'}}>
-            &copy; 2023, Group 2 - Mobile Programming
+            &copy; 2024, Group 2 - Mobile Programming
           </Text>
         </View>
       </View>
